@@ -1,0 +1,44 @@
+body {
+  background: url(images/backgroundimage.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.navbar .navbar-nav .nav-link {
+  font-size: 1.3em;
+}
+
+.navbar .navbar-nav .nav-link:hover{
+  color: #51768d;
+}
+
+#nav-logo{
+  background-color: #ffffff;
+  height: 60px;
+  width: 100px;
+  border-radius: 10px;
+}
+
+.nav-item-border-right{
+  border-right: 1px white solid;
+}
+
+#about-me {
+  border: 2px solid black;
+}
+
+.add-margin-top {
+  margin-top: 1%;
+}
+
+.print-image {
+  height: 215px;
+}
+
+.print-card {
+  width: 100%; 
+  margin-top: 1.5%;
+}
+
